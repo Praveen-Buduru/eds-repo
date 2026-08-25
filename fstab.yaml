@@ -1,5 +1,4 @@
 mountpoints:
   /:
-    url: https://guides.adobe.com/eds-workers/praveen-buduru/eds-repo/main/docs
+    url: https://dita-franklin-worker.adobeaem.workers.dev/Praveen-Buduru/eds-repo/main/docs
     type: markup
-
